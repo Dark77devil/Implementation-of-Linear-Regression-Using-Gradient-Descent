@@ -17,7 +17,7 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: MANO 
+Developed by: MANO M
 RegisterNumber: 212221040100
 */
 import numpy as np
